@@ -12,6 +12,7 @@
     font-family: Courier New, monospace;
     color: #6b6b6b;
     background-color: #f3f3f3;
+    font-weight: 700;
 }
 
 .header {
@@ -25,4 +26,18 @@
 
 .header ul li {
     padding: 5px;
+}
+
+.name-title {
+    text-align: center;
+}
+
+.name-title h2 {
+    color: cornflowerblue;
+    padding: 20px;
+}
+
+.name-title ul li {
+    list-style: none;
+    padding: 10px;
 }
