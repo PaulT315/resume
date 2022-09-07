@@ -44,7 +44,7 @@
 
 .skills {
     text-align: center;
-    margin: 30px;
+    border-bottom: 2px solid;
 }
 
 .skills h2 {
@@ -58,4 +58,14 @@
 
 .skills ul li {
     padding: 5px;
+}
+
+.education {
+    text-align: center;
+}
+
+.education h2 {
+    padding: 10px;
+    text-decoration: underline;
+    text-transform: uppercase;
 }
