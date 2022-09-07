@@ -69,3 +69,13 @@
     text-decoration: underline;
     text-transform: uppercase;
 }
+
+@media(max-width: 375px) {
+    .header {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin: 10px;
+    }
+}
