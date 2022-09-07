@@ -41,3 +41,21 @@
     list-style: none;
     padding: 10px;
 }
+
+.skills {
+    text-align: center;
+    margin: 30px;
+}
+
+.skills h2 {
+    padding: 20px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.skills ul {
+    list-style: none;
+}
+
+.skills ul li {
+    padding: 5px;
+}
